@@ -1,5 +1,5 @@
 ; 16-bit COM file example
-; nasm hellocom.asm -fbin -o hellocom.com
+; nasm hello.asm -fbin -o hello.com
 ; to run in MS DOS / DosBox: hellocom.com
   org 100h 
  
